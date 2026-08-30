@@ -1,0 +1,84 @@
+{
+  "domains": {
+    "inverloch_builders": {
+      "name": "Inverloch Builders",
+      "url": "https://www.inverlochbuilders.com.au",
+      "tagline": "Bespoke Coastal Builders & Renovations",
+      "primaryColor": "#ba8c59"
+    },
+    "bass_coast_builders": {
+      "name": "Bass Coast Builders",
+      "url": "https://www.basscoastbuilders.com.au",
+      "tagline": "Premium Residential Builders & Extensions",
+      "primaryColor": "#2b6cb0"
+    }
+  },
+  "suburbs": [
+    {
+      "name": "Inverloch",
+      "slug": "inverloch",
+      "metaTitle": "Luxury Home Builders & Renovations in Inverloch | Inverloch Builders",
+      "metaDescription": "Premier coastal builders in Inverloch specializing in high-end new builds, architectural renovations, and luxury home extensions across Inverloch VIC."
+    },
+    {
+      "name": "Wonthaggi",
+      "slug": "wonthaggi",
+      "metaTitle": "Custom Home Builders & Renovations Wonthaggi | Inverloch Builders",
+      "metaDescription": "Transform your living space with Wonthaggi's trusted custom builders. Expert architectural renovations and new home construction."
+    },
+    {
+      "name": "Cape Paterson",
+      "slug": "cape-paterson",
+      "metaTitle": "Architectural Coastal Builders Cape Paterson | Inverloch Builders",
+      "metaDescription": "Luxury coastal homes and cliffside renovations in Cape Paterson. Premium craftsmanship tailored to coastal living."
+    },
+    {
+      "name": "Venus Bay",
+      "slug": "venus-bay",
+      "metaTitle": "Luxury Home Renovations & Extensions Venus Bay | Inverloch Builders",
+      "metaDescription": "Custom home builds, deck extensions, and luxury residential renovations across Venus Bay by Inverloch Builders."
+    },
+    {
+      "name": "Phillip Island",
+      "slug": "phillip-island",
+      "metaTitle": "Bespoke Home Builders Phillip Island | Inverloch Builders",
+      "metaDescription": "Architectural home builders on Phillip Island. Luxury coastal residences, structural extensions, and high-end remodeling."
+    },
+    {
+      "name": "Cowes",
+      "slug": "cowes",
+      "metaTitle": "Custom Home Builders & Renovations Cowes | Inverloch Builders",
+      "metaDescription": "High-end coastal home construction and kitchen/bathroom renovations in Cowes, VIC by master builders."
+    },
+    {
+      "name": "San Remo",
+      "slug": "san-remo",
+      "metaTitle": "Waterfront Builders & Architectural Homes San Remo | Inverloch Builders",
+      "metaDescription": "Bespoke residential construction and modern home transformations in San Remo."
+    },
+    {
+      "name": "Kilcunda",
+      "slug": "kilcunda",
+      "metaTitle": "Oceanview Custom Home Builders Kilcunda | Inverloch Builders",
+      "metaDescription": "Specialized eco-friendly coastal builds and luxury architectural extensions in Kilcunda."
+    },
+    {
+      "name": "Leongatha",
+      "slug": "leongatha",
+      "metaTitle": "Custom Residential Builders Leongatha | Inverloch Builders",
+      "metaDescription": "Premium rural and residential builders in Leongatha delivering luxury home transformations."
+    },
+    {
+      "name": "Korumburra",
+      "slug": "korumburra",
+      "metaTitle": "High-End Home Builders Korumburra | Inverloch Builders",
+      "metaDescription": "Bespoke architectural home construction and extensive house renovations in Korumburra."
+    },
+    {
+      "name": "Tarwin Lower",
+      "slug": "tarwin-lower",
+      "metaTitle": "Luxury Coastal Builders Tarwin Lower | Inverloch Builders",
+      "metaDescription": "Master builders crafting bespoke coastal retreats and modern house extensions in Tarwin Lower."
+    }
+  ]
+}
